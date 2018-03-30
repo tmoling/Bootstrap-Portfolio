@@ -1,2 +1,5 @@
 # Bootstrap-Portfolio
-HW2, assn 1
+
+So who is this Troy guy?
+
+Check out his portfolio and see for yourself!
